@@ -1,6 +1,8 @@
 # Liste des exercices de la session
 
-Voici la liste des démo faites en classe disponibles pour cette session pour le cours 2J2 - Hiver 2026
+Voici la liste des démos faites en classe disponibles pour cette session pour le cours 2J2 - Hiver 2026
+
+Vous y trouverez une version compilée pour tester le rendu final des projets faits en classe et dans les capsules Youtube.
 
 ## 1. Bloc 1 - Introduction à la programmation
 
