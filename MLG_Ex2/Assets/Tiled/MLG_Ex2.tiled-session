@@ -1,0 +1,52 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Niveau2.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Arena/Demos/MLG_Ex2/Assets/Sprites/Tiled/sampleMap.tmx": {
+            "scale": 2.681451612903226,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 268.5112781954887,
+                "y": 143.7654135338346
+            }
+        },
+        "C:/Arena/Demos/MLG_Ex2/Assets/Sprites/Tiled/sampleSheet.tsx": {
+            "scaleInDock": 2
+        },
+        "Niveau1.tmx": {
+            "scale": 1.8261,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 239.8554296040743,
+                "y": 799.7919062482888
+            }
+        },
+        "Niveau2.tmx": {
+            "scale": 0.5415,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 880.8864265927978,
+                "y": 1100.6463527239152
+            }
+        }
+    },
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 25,
+    "openFiles": [
+        "C:/Arena/Demos/MLG_Ex2/Assets/Sprites/Tiled/sampleMap.tmx",
+        "Niveau1.tmx",
+        "Niveau2.tmx"
+    ],
+    "project": "MLG_Ex2.tiled-project",
+    "recentFiles": [
+        "C:/Arena/Demos/MLG_Ex2/Assets/Sprites/Tiled/sampleMap.tmx",
+        "Niveau1.tmx",
+        "Niveau2.tmx"
+    ]
+}
