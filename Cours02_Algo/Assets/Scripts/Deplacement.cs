@@ -19,22 +19,24 @@ public class Deplacement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float nouvellePositionX = transform.position.x + vitesse;
-        float nouvellePositionY = transform.position.y;
+        // float nouvellePositionX = transform.position.x + vitesse;
+        // float nouvellePositionY = transform.position.y;
 
-        if (nouvellePositionX > 10)
-        {
-            nouvellePositionX = -10;
-        }
-        else if (nouvellePositionX > 0 && nouvellePositionX < 10)
-        {
+        // if (nouvellePositionX > 10)
+        // {
+        //     nouvellePositionX = -10;
+        // }
+        // else if (nouvellePositionX > 0 && nouvellePositionX < 10)
+        // {
 
-        }
-        else
-        {
-            
-        }
+        // }
+        // else
+        // {
 
-        transform.position = new Vector2(nouvellePositionX, nouvellePositionY);
+        // }
+
+        // transform.position = new Vector2(nouvellePositionX, nouvellePositionY);
+
+
     }
 }

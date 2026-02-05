@@ -22,7 +22,6 @@ public class DeplacementDecor : MonoBehaviour
         {
             deplacementX = limiteXMin;
         }
-
         transform.position = new Vector2(deplacementX, deplacementY);
     }
 }
