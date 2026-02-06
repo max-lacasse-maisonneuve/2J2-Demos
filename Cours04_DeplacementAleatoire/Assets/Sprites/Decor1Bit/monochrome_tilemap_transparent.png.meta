@@ -1021,7 +1021,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -1035,7 +1035,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1435,7 +1435,7 @@ TextureImporter:
         width: 16
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1457,7 +1457,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2928,7 +2928,7 @@ TextureImporter:
         serializedVersion: 2
         x: 50
         y: 254
-        width: 103
+        width: 70
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4705,28 +4705,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monochrome_tilemap_transparent_169
-      rect:
-        serializedVersion: 2
-        x: 135
-        y: 152
-        width: 9
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7b2821d3d4c77480800000000000000
-      internalID: -8901429724448281732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: monochrome_tilemap_transparent_170
       rect:
         serializedVersion: 2
@@ -4766,28 +4744,6 @@ TextureImporter:
       bones: []
       spriteID: d1618ab8789f2eca0800000000000000
       internalID: -5988950193890388451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monochrome_tilemap_transparent_172
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 152
-        width: 9
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: acd47a151bb0e5ba0800000000000000
-      internalID: -6098423989206037046
       vertices: []
       indices: 
       edges: []
@@ -5096,50 +5052,6 @@ TextureImporter:
       bones: []
       spriteID: e563e8b5ef2a93330800000000000000
       internalID: 3691160582948271710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monochrome_tilemap_transparent_187
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 152
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ea352ca966643b80800000000000000
-      internalID: -8415989199602894108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monochrome_tilemap_transparent_188
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 152
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d0b6003175adbb70800000000000000
-      internalID: 8916464742819082457
       vertices: []
       indices: 
       edges: []
@@ -8233,7 +8145,7 @@ TextureImporter:
         width: 18
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8255,7 +8167,7 @@ TextureImporter:
         width: 14
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8264,6 +8176,28 @@ TextureImporter:
       bones: []
       spriteID: 0ad24b1a00acc6c40aac16de90f6cde9
       internalID: 1377856777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pied de plateforme
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 153
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6730b3c6aceda4a9e577f85d162563
+      internalID: 900937056
       vertices: []
       indices: 
       edges: []
@@ -8612,6 +8546,7 @@ TextureImporter:
       monochrome_tilemap_transparent_99: -3487893625502631259
       panneau: -4187995391753843815
       panneau2: 3855848215631013278
+      pied de plateforme: 900937056
       souris: 6770574334726002032
       spring: 1377856777
   mipmapLimitGroupName: 
