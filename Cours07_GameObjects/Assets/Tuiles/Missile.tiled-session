@@ -10,10 +10,10 @@
     "fileStates": {
         "Carte.tmx": {
             "scale": 0.5,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1071,
-                "y": 641
+                "x": 854,
+                "y": 780
             }
         },
         "cours.tmx": {
