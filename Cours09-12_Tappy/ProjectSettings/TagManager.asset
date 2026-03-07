@@ -7,6 +7,7 @@ TagManager:
   - MurFond
   - Obstacle
   - Etoile
+  - ZoneDrapeau
   layers:
   - Default
   - TransparentFX

@@ -6,6 +6,8 @@ public class DeplacementVoiture : MonoBehaviour
     public InputAction onDeplacement;
     public InputAction onRotation;
 
+    
+
     public float vitesseDeplacement = 7.5f;
     public float vitesseRotation = 150;
 
@@ -26,7 +28,10 @@ public class DeplacementVoiture : MonoBehaviour
     {
         float directionRotation = 0;
         float directionDeplacement = 0;
-
+        if (Keyboard.current.num.wasPressedThisFrame)
+        {
+            
+        }
         directionDeplacement = onDeplacement.ReadValue<float>();
         directionRotation = onRotation.ReadValue<float>();
         transform.Rotate(0, 0, directionRotation * vitesseRotation * Time.deltaTime);

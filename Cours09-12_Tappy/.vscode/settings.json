@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Cours_09-12_Tappy.slnx"
+    "dotnet.defaultSolution": "Cours09-12_Tappy.slnx"
 }
